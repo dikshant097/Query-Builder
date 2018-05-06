@@ -1,0 +1,2 @@
+# Query-Builder
+A software designed in java and uses oracle database as source DB. It is similar to query builder provided by almost all database vendors. One can select the type of data to be searched in DB without writing actual SQL query, using the GUI based interaction. The selection made in GUI will be automatically converted to SQL query and the resulting query will be shown as well as will be fired and corresponding results will be shown in tabular format.
